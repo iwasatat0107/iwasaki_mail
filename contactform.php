@@ -1,3 +1,8 @@
-<?php
-phpinfo();
-?>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+</head>
+<body>
+</body>
+</html>
+
